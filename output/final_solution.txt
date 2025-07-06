@@ -1,0 +1,17 @@
+✅ Final Optimal Solution (Simplex Problem 1):
+
+Basic Variables:
+- x₂ = 7
+- s₁ = 22
+- s₃ = 0
+
+Non-Basic Variables:
+- x₁ = 0
+- x₃ = 0
+- s₂ = 0
+
+Objective Value:
+Z = x₁ + 4x₂ + 5x₃ = 0 + 28 + 0 = 28
+
+Status:
+Optimal solution reached at Iteration 2. All Cj – Zj ≤ 0. No further pivoting required.
