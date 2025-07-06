@@ -55,13 +55,12 @@ Optimal solution reached after 2 pivot iterations. Full iteration breakdown avai
 For interpretation and pivot reasoning, see [`simplex_notes.md`](simplex_notes.md)
 
 ---
-
 ## 📷 Visual Walkthrough
 
-![Simplex Cheatsheet](outputs/IMG_20250706_111552.jpg)  
+![Simplex Cheatsheet](output/IMG_20250706_111552.jpg)  
 *Conceptual overview of the Simplex Method.*
 
-![Tableau Iteration Flow](outputs/copilot_image_1751797481367.jpeg)  
+![Tableau Iteration Flow](output/copilot_image_1751797481367.jpeg)  
 *Manual tableau transformations across all iterations.*
 
 ## 📂 Repository Contents
