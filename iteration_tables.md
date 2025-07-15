@@ -48,7 +48,9 @@ This file tracks the manual tableau transformations for **Simplex Problem 1**, i
 ### 🧠 Pivot Summary
 
 - Iteration 0 → Pivot on x₃ (s₂ leaves)  
+
 - Iteration 1 → Pivot on x₂ (x₃ leaves)  
+
 - Iteration 2 → Optimality confirmed, no further pivot
 
 Every tableau marks a clear transformation using logic over code. These fractions aren’t just numbers—they’re strategy snapshots.
